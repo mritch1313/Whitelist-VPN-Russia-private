@@ -12,20 +12,21 @@
 
 #
 
-# ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ
+# ПОЛЬЗ-СОГЛАШЕНИЕ
 
 #
 
 Поддерживаемые клиенты подписки
 
 **Happ**
-- Google Play `https://play.google.com/store/apps/details?id=com.happproxy`
-- WEB Happ.su `https://www.happ.su/main/ru`
+- Google Play `https://play.google.com/store/apps/details?id=com.happproxy` (Android)
+- WEB Happ.su `https://www.happ.su/main/ru` (Android)
+- AppStore `https://apps.apple.com/us/app/happ-proxy-utility/id6504287215` (iPhone)
 
 **v2RayTun**
-- Google Play `https://play.google.com/store/apps/details?id=com.v2raytun.android`
-- WEB v2RayTun.ws `https://v2raytun.ws/download`
-- WEB GitHub
+- Google Play `https://play.google.com/store/apps/details?id=com.v2raytun.android` (Android)
+- WEB v2RayTun.ws `https://v2raytun.ws/download` (Android)
+- AppStore `https://apps.apple.com/us/app/v2raytun/id6476628951?l=ru` (iPhone)
 
 
 
