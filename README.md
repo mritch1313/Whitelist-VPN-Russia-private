@@ -288,9 +288,9 @@
 
 Почему? Схожая ситуация с Max — данные сервисы могут отслеживать и фильтровать подозрительные VPN-подключения. Информация может передаваться в соответствующие структуры, после чего серверы могут быть быстро заблокированы.
 Подробнее можно будет посмотреть список сервисов, в которые через VPN СТРОГО НЕЛЬЗЯ заходить:
-`1 https://digital.gov.ru/news/belyj-spisok-dostupnyh-pri-ogranicheniyah-interneta-sajtov-vnov-rasshiren`
-`2 https://media.mts.ru/internet/210833-belyj-spisok-interneta`
-`3 https://github.com/hxehex/russia-mobile-internet-whitelist/blob/main/whitТакжt.txt` самый большой реестр
+- `1 https://digital.gov.ru/news/belyj-spisok-dostupnyh-pri-ogranicheniyah-interneta-sajtov-vnov-rasshiren`
+- `2 https://media.mts.ru/internet/210833-belyj-spisok-interneta`
+- `3 https://github.com/hxehex/russia-mobile-internet-whitelist/blob/main/whitТакжt.txt` самый большой реестр
 
 Также добавлю те условия использования в **"Пользовательском соглашений"**
 
