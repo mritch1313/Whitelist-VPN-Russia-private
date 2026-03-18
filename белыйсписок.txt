@@ -1,9 +1,0 @@
-#profile-title: 👾🌿CatwhiteVPN🌿👾
-#profile-update-interval: 1
-#announce: ⚡️Тгк @catlergememe версия: 22.1.49⚡️
-#support-url: https://t.me/catlergememe/856
-#profile-web-page-url: https://twinkalex1470-crypto.github.io/Catsite/
-#hide-settings: 1
-
-vless://0c56d165-7005-4655-8b9e-4f6888b50318@178.160.229.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ipa.market.yandex.ru&fp=chrome&security=reality&pbk=8PRhLGCCDYTPM68-cJj2tpTKl-fAG0Q6Px1pq0LHtXE&sid=395aaad7&packetEncoding=xudp#🌐 Anycast |💠| от катлер
-vless://1fb78ef8-7bf0-47fe-bf74-eeffea5b0fad@194.156.103.151:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=oDXAjhoNPd4x5xliFbkQlAI8xeAN6-0snhKJtX4swk8&sid=1a4275e5a62d39d5&sni=google.com&path=/illusion-armenia&host=google.com&mode=auto&spx=/#🌐 Anycast |💠| от катлер
