@@ -1,0 +1,6 @@
+#profile-title: 👾🌿АЛЬТ ВПН🌿👾
+#profile-update-interval: 1
+#announce: ⚡️Telegram @vpn_Alt_bot version 1.0
+#support-url: https://t.me/vpn_Alt_bot
+#profile-web-page-url: https://twinkalex1470-crypto.github.io/Catsite/
+#hide-settings: 0
