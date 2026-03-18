@@ -10,8 +10,22 @@
 
 Реализация использует обфускацию, маскировку трафика разные протоколы и адаптацию под DPI для максимальной стабильности и минимизации отслеживания/треккеров. Всё исключительно в закрытой экосистеме — без публичного распространения, рекламы или открытого использования.
 
+#
 
+# ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ
 
+#
+
+Поддерживаемые клиенты подписки
+
+**Happ**
+- Google Play `https://play.google.com/store/apps/details?id=com.happproxy`
+- WEB Happ.su `https://www.happ.su/main/ru`
+
+**v2RayTun**
+- Google Play `https://play.google.com/store/apps/details?id=com.v2raytun.android`
+- WEB v2RayTun.ws `https://v2raytun.ws/download`
+- WEB GitHub
 
 
 
