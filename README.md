@@ -212,39 +212,7 @@
 - WEB v2RayTun.ws `https://v2raytun.ws/download` (Android)
 - AppStore `https://apps.apple.com/us/app/v2raytun/id6476628951?l=ru` (iPhone)
 
-
-
-
-
-#
-
-
-
-
-
-
-
-# Info
-а че ты хочешь увидеть?
-
-
-
-
-# Главный заголовок
-
-## Подзаголовок
-
-### Подподзаголовок
-
-
-**Жирный текст** и *курсив* работают
-
-
-- Элемент списка 1
-- Элемент списка 2
-
-
-## Установка VPN-ПОДПИСКИ
+# Установка VPN-ПОДПИСКИ
 1. Скопируй **ПРИВАТНУЮ-ПОДПИСКУ** нашего VPN:
    `git clone https://github.com/USERNAME/REPO.git`
 2. Зайди в VPN-Клиент в нашем случае HAPP
