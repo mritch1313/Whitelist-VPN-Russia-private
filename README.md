@@ -12,7 +12,7 @@
 
 #
 
-# СОГЛАШЕНИЕ И ТД
+# СОГЛАШЕНИЕ/ВОПРОСЫ И Т.Д
 
 <details>
 <summary> 📄 Открыть Пользовательское-соглашение</summary>
@@ -129,7 +129,7 @@
 </details>
 
 <details>
-<summary>🔐Политика    конфиденциальности</summary>
+<summary>🔐Политика конфиденциальности</summary>
 
 🔐 Политика конфиденциальности (No-Logs)
 
@@ -321,6 +321,8 @@
 - Google Play `https://play.google.com/store/apps/details?id=com.v2raytun.android` (Android)
 - WEB v2RayTun.ws `https://v2raytun.ws/download` (Android)
 - AppStore `https://apps.apple.com/us/app/v2raytun/id6476628951?l=ru` (iPhone)
+
+#
 
 # Установка VPN-ПОДПИСКИ
 1. Скопируй **ПРИВАТНУЮ-ПОДПИСКУ** нашего VPN:
