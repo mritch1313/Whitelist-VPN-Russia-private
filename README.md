@@ -303,9 +303,11 @@
 # САМ ДАННЫЙ VPN
 
 <details>
-<summary>СТАТИСТИКА</summary>
+<summary>📰**СТАТИСТИКА КАЖДОГО КЛЮЧА ИЗ ПОДПИСКИ**</summary>
 
--хуй
+- eh11
+- eeb1
+- ebbe
 
 </details>
 
